@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/903377243.svg)](https://doi.org/10.5281/zenodo.14591661)
+
 # Curricular content networks
 
 This repository contains the code for reproducing the results of the paper "Complex networks approach to curriculum analysis and subject integration: a case study on Physics and Mathematics" by Paula Tuzón Marco, Antoni Salvà Salvà, and Juan Fernández-Gracia.
