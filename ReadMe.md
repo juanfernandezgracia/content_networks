@@ -2,6 +2,8 @@
 
 This repository contains the code for reproducing the results of the paper "Complex networks approach to curriculum analysis and subject integration: a case study on Physics and Mathematics" by Paula Tuzón Marco, Antoni Salvà Salvà, and Juan Fernández-Gracia.
 
+[arXiv](https://arxiv.org/abs/2412.15929)
+
 The paper explores a complex networks approach to curriculum analysis and subject integration, focusing on the fields of Physics and Mathematics. The code provided in this repository allows for the replication of the study's results.
 
 ## Files
